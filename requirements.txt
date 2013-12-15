@@ -1,0 +1,4 @@
+Django==1.6
+gunicorn==18.0
+ipython==1.1.0
+pyzmq==14.0.1
